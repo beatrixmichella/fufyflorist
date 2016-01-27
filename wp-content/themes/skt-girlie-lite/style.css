@@ -109,7 +109,7 @@ h2.section-title {color:#454545; font:300 36px/40px 'Roboto',san-serif; text-ali
 
 /* = Services section css
 -------------------------------------------------------------- */
-.services-wrap { width:1170px !important; background-color:#fbfbfb; padding:30px; margin-top:-50px; z-index:9999; box-shadow: 0 0 20px 0 #e3e3e3;}
+.services-wrap { width:1170 !important; background-color:#fbfbfb; padding:30px; margin-top:-50px; z-index:9999; box-shadow: 0 0 20px 0 #e3e3e3;}
 .listpages{ width:22%; margin:0 4% 0 0; float:left; text-align:center;}
 .listpages h4{font:600 18px/22px 'Roboto',san-serif; margin:20px 0; text-transform:uppercase; font-style:italic; }
 .listpages img{ border:8px solid #fff;}

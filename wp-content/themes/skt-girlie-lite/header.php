@@ -179,9 +179,7 @@
         
  <?php if ( is_front_page() && ! is_home() ) { ?>
        <section id="wrapsecond" class="pagewrap2">
-            	<div class="container">
-                    <div class="services-wrap">
-                    
+            	<div class="container services-wrap">
                       <?php for($p=1; $p<5; $p++) { ?>       
         	<?php if( get_theme_mod('page-column'.$p,false)) { ?>          
         		<?php $queryxxx = new WP_query('page_id='.get_theme_mod('page-column'.$p,true)); ?>				
@@ -203,8 +201,6 @@
                         </div>
 			<?php }} ?>
 
-                      
-               </div><!-- services-wrap-->
               <div class="clear"></div>
             </div><!-- container -->
        </section><div class="clear"></div>        

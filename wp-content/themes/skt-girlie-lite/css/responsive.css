@@ -45,7 +45,7 @@ h2.section_title{ text-align:center;}
 }
 
 /* Tablet View */
-@media screen and (max-width:1169px) and (min-width:768px) { 
+@media screen and (max-width:1170px) and (min-width:768px) { 
 *{box-sizing:border-box;}
 .social-icons a{ box-sizing:content-box; margin-bottom:5px; }
 .container { width:auto; padding:0 20px;}
